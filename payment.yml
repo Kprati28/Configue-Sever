@@ -1,3 +1,4 @@
+
 server:
   port: 6666
 spring:
@@ -15,3 +16,4 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
+
